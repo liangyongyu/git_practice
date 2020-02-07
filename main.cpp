@@ -7,5 +7,6 @@ int main(int argc, char **argv)
 {
     cout<<"the first practice"<<endl;
     cout<<"the second practice by lyy"<<endl;
+    cout<<"lyyy";
     return 0;
 }
